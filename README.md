@@ -1,4 +1,4 @@
-# 💫 About Me:VIKAS SUTHAR
+# 💫 About Me: VIKAS SUTHAR
 I’m a Computer Science Engineering student at KLH University, Hyderabad, with a strong foundation in<br>programming, data structures, and web development. Proficient in C, C++, Python, HTML, CSS, and skilled in<br>data tools like Excel and Power BI. Recently certified in Microsoft Azure AI Fundamentals, Cisco C Essentials, and<br>HackerRank Problem Solving. Known for a sharp problem-solving mindset, consistent learning attitude, and a drive<br>to innovate in tech. Eager to contribute to challenging projects in software development, AI, or data analysis.<br>Jul 2024
 
 
